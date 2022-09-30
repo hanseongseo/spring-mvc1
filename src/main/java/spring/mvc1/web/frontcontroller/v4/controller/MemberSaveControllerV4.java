@@ -1,5 +1,6 @@
 package spring.mvc1.web.frontcontroller.v4.controller;
 
+import org.springframework.web.bind.annotation.RequestMapping;
 import spring.mvc1.domain.member.Member;
 import spring.mvc1.domain.member.MemberRepository;
 import spring.mvc1.web.frontcontroller.ModelView;
